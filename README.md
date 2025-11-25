@@ -1,16 +1,47 @@
-## Hi there 👋
+<h2 align="center">Hi there 👋, I'm Sapana Bhat</h2>
+<h4 align="center">Junior QA Engineer | Manual & Automation Tester</h4>
 
-<!--
-**sapna12-gif/sapna12-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧪 About Me  
+I'm a **Junior QA Engineer** passionate about ensuring software quality, improving user experience, and exploring automation. I enjoy testing web applications, APIs, and writing clean automated scripts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech & Tools I Use  
+<p align="left">
+  
+✔ **Manual Testing** — Web App, API  
+✔ **Automation** — Cypress  
+✔ **Performance Testing** — JMeter  
+✔ **Databases** — MySQL (Basic)  
+✔ **Programming** — Python (Basic)  
+✔ **Tools** — Postman, Git, Clickup  
+
+</p>
+
+---
+
+### 🚀 What I’m Currently Working On  
+- **Web GIS** – currently working on testing Web GIS  
+- **Nepal Dairy Project** – worked on both Web and Mobile applications  
+- **eSewa AR Web& App** – worked on different testing flows in the AR application  
+- Improving automation skills with Cypress  
+- Learning Python & SQL for QA automation  
+
+---
+
+### 🎯 My Goals  
+- Become a strong QA Automation Engineer  
+- Write clean and maintainable automation frameworks   
+- Keep learning new QA tools & technologies  
+
+---
+
+### 📫 How to reach me  
+📧 Email: **sapnabhatt529@gmail.com**  
+🔗 LinkedIn: [Sapna Bhat](https://www.linkedin.com/in/sapna-bhat/)  
+
+---
+
+### 💛 Thanks for visiting my profile!  
