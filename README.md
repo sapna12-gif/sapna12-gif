@@ -16,7 +16,7 @@ I'm a **Junior QA Engineer** passionate about ensuring software quality, improvi
 ✔ **Performance Testing** — JMeter  
 ✔ **Databases** — MySQL (Basic)  
 ✔ **Programming** — Python (Basic)  
-✔ **Tools** — Postman, Git, Clickup  
+✔ **Tools** — Postman, Git, Clickup, BrowserStack, Lambda Test.
 
 </p>
 
