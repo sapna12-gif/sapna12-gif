@@ -23,9 +23,9 @@ I'm a **Junior QA Engineer** passionate about ensuring software quality, improvi
 ---
 
 ### 🚀 What I’m Currently Working On  
-- **Web GIS** – currently working on testing Web GIS  
-- **Nepal Dairy Project** – worked on both Web and Mobile applications  
-- **eSewa AR Web& App** – worked on different testing flows in the AR application  
+- **Gallimaps** – currently working on testing Web GIS  
+- **Nepal Dairy** – worked on both Web and Mobile applications  
+- **eSewa** – worked on different testing flows in the AR application  
 - Improving automation skills with Cypress  
 - Learning Python & SQL for QA automation  
 
