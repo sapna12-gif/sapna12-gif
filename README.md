@@ -1,5 +1,5 @@
 <h2 align="center">Hi there 👋, I'm Sapana Bhat</h2>
-<h4 align="center">Junior QA Engineer | Manual & Automation Tester</h4>
+<h4 align="center">Associate QA Engineer | Manual & Automation Tester</h4>
 
 ---
 
