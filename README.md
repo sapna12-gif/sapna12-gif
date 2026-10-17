@@ -4,7 +4,7 @@
 ---
 
 ### 🧪 About Me  
-I'm a **Junior QA Engineer** passionate about ensuring software quality, improving user experience, and exploring automation. I enjoy testing web applications, APIs, and writing clean automated scripts.
+I'm a **Associate QA Engineer** passionate about ensuring software quality, improving user experience, and exploring automation. I enjoy testing web applications, APIs, and writing clean automated scripts.
 
 ---
 
